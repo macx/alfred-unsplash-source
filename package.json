@@ -38,6 +38,6 @@
   },
   "homepage": "https://github.com/kjbrum/alfred-unsplash-source#readme",
   "dependencies": {
-    "alfy": "^0.7.0"
+    "alfy": "^0.9.1"
   }
 }
